@@ -1,0 +1,7 @@
+line_number,raw_line,error
+7,2026-10-08T08:30:00|WELL-104|bad|psi|202|F|ACTIVE,Invalid numeric value
+8,2026-10-08T08:35:00|WELL-105|3100|bar|200|F|ACTIVE,Unsupported pressure unit: bar
+9,2026-10-08T08:40:00|WELL-101|-10|psi|196|F|ACTIVE,Pressure must be non-negative
+12,2026-10-08T08:55:00|WELL-106|3125|psi|199|F,Expected exactly seven fields
+14,2026-10-08T09:05:00|WELL-107|3000|psi||F|ACTIVE,Fields must not be empty
+18,2026-10-08T09:25:00|WELL-109|3100|psi|210|K|ACTIVE,Unsupported temperature unit: K
