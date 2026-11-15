@@ -1,0 +1,14 @@
+.README
+Python Control Flow Lab – Drilling Well Readings
+
+Project Overview
+
+This project demonstrates the use of Python fundamentals and control flow to analyse drilling well pressure readings.
+
+The program classifies pressure readings, converts pressure from PSI to kPa, filters valid active readings, and calculates average pressure for each well. 
+
+Conclusion
+
+This exercise demonstrates how Python control flow can be used to process drilling telemetry data, identify invalid observations, filter operational readings, and calculate well-level pressure averages.
+
+The results provide a simple example of how programming can support data analysis in the oil and gas industry.
